@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:24
+-keep class org.apache.android.media.BBVideoPlayer { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class org.apache.android.media.VideoViewDemo { <init>(...); }
+
